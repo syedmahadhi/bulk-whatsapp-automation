@@ -1,4 +1,4 @@
 # bulk-whatsapp-automation
-for this you need
+for this you will need
 
 python, pyautogui, web browser, pandas
